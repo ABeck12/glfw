@@ -2,6 +2,7 @@
 /bin-int
 /bin
 *.vcxproj*
+/.vscode
 
 # The canonical out-of-tree build subdirectory
 build
