@@ -3,6 +3,7 @@
 /bin
 *.vcxproj*
 /.vscode
+*.cmake
 
 # The canonical out-of-tree build subdirectory
 build
